@@ -6,7 +6,7 @@ import markov_new as markov
 import transformer_chatbot as tc
 BOT_PREFIX = ("?", "!")
 BOT_NAME = 'Emoma'
-TOKEN = "NjA1NTMxMjc1NjU0MDcwMjc0.XUABuQ.e8iaRNS7Mxa6PThW6KIvYfmAt40"
+TOKEN = "DISCORD TOKEN HERE"
 
 
 client = Bot(command_prefix=BOT_PREFIX)
